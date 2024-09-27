@@ -1,72 +1,78 @@
 {
-    "users": [
-        {
-            "id": "1033",
-            "name": "Anil Sidhu",
-            "email": "anil@test.com",
-            "password": "anil@123"
-        },
-        {
-            "id": "c1d0",
-            "email": "",
-            "name": "",
-            "password": "Shantyanu"
-        },
-        {
-            "id": "fde8",
-            "email": "s@gmail.com",
-            "name": "shaantanu",
-            "password": "SSSS"
-        },
-        {
-            "id": "8672",
-            "email": "se@gmail.com",
-            "name": "shaan",
-            "password": "dddfg"
-        },
-        {
-            "id": "52c8",
-            "email": "peter@test.com",
-            "name": "peter",
-            "password": "Peter@123"
-        },
-        {
-            "id": "6784",
-            "email": "peter@test.com",
-            "name": "peter",
-            "password": "Peter@123"
-        },
-        {
-            "id": "86c1",
-            "email": "test2@test.com",
-            "name": "test2",
-            "password": "Test"
-        },
-        {
-            "id": "b3aa",
-            "email": "hosn@test.com",
-            "name": "john",
-            "password": "John@123"
-        }
-    ],
-    "restaurant": [
-        {
-            "id": 1,
-            "name": "KFC",
-            "address": "Noida sector 50",
-            "contact": 111
-        },
-        {
-            "id": 2,
-            "name": "Burger King",
-            "address": "Gurgaon sector 20",
-            "contact": 2222
-        },
-        {
-            "id": 3,
-            "name": "Dominos",
-            "address": "Delhi CP",
-            "contact": 3333
-        }
-    ]
+  "users": [
+    {
+      "id": "1033",
+      "name": "Anil Sidhu",
+      "email": "anil@test.com",
+      "password": "anil@123"
+    },
+    {
+      "id": "c1d0",
+      "email": "",
+      "name": "",
+      "password": "Shantyanu"
+    },
+    {
+      "id": "fde8",
+      "email": "s@gmail.com",
+      "name": "shaantanu",
+      "password": "SSSS"
+    },
+    {
+      "id": "8672",
+      "email": "se@gmail.com",
+      "name": "shaan",
+      "password": "dddfg"
+    },
+    {
+      "id": "52c8",
+      "email": "peter@test.com",
+      "name": "peter",
+      "password": "Peter@123"
+    },
+    {
+      "id": "6784",
+      "email": "peter@test.com",
+      "name": "peter",
+      "password": "Peter@123"
+    },
+    {
+      "id": "86c1",
+      "email": "test2@test.com",
+      "name": "test2",
+      "password": "Test"
+    },
+    {
+      "id": "b3aa",
+      "email": "hosn@test.com",
+      "name": "john",
+      "password": "John@123"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "KFC 2",
+      "address": "Noida sector 50",
+      "contact": 111,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Burger King",
+      "address": "Gurgaon sector 20",
+      "contact": 2222
+    },
+    {
+      "id": "168c",
+      "name": "ss",
+      "address": "wws",
+      "contact": "ddd"
+    },
+    {
+      "id": "acf5",
+      "name": "Kfc",
+      "address": "ca",
+      "contact": "551"
+    }
+  ]
 }
